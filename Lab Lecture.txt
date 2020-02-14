@@ -1,0 +1,10 @@
+Git
+1.git clone <link>  <- for clone
+2.git branch <name> <- for create branch
+3.git checkout <branch name> <- for change branch
+4.git status <- check status of git
+5.git log --all --decorate --oneline --graph <- for check git log
+6.git push origin <branch> <- for push file to online
+7.git merge <branch> <- merge two branch to branch in <...>
+8.git add <file name> <- add file to stage
+9.git commit -m "..." <- add file to git
